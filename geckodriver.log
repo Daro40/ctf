@@ -1,0 +1,22 @@
+1592756188860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dario\\AppData\\Local\\Temp\\rust_mozprofilexJ2gI2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592756194607	Marionette	INFO	Listening on port 50808
+1592756194698	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://docker.hackthebox.eu:32671"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://docker.hackthebox.eu:32671"
+1592756463213	Marionette	INFO	Stopped listening on port 50808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592756469562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dario\\AppData\\Local\\Temp\\rust_mozprofileiZ3R4O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592756473564	Marionette	INFO	Listening on port 51013
+1592756473757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592756512349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dario\\AppData\\Local\\Temp\\rust_mozprofileK4Cfk0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592756515901	Marionette	INFO	Listening on port 51079
+1592756516033	Marionette	WARN	TLS certificate errors will be ignored for this session
